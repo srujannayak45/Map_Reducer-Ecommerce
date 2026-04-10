@@ -1,0 +1,8 @@
+﻿TransactionID,ProductID,City,Quantity,Price,Timestamp
+T101,P25,Hyderabad,2,500,01-11-2025
+T102,P10,Vijayawada,1,1200,01-11-2025
+T103,P18,Vizag,3,300,01-11-2025
+T104,P25,Hyderabad,1,500,01-11-2025
+T105,P10,Vijayawada,2,1200,01-11-2025
+T106,P18,Vizag,1,300,01-11-2025
+T107,P25,Hyderabad,3,500,01-11-2025
